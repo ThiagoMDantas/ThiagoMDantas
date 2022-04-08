@@ -1,4 +1,6 @@
-## Sejam bem vindo a bordo na nossa nave espacial!
+## 😎 Thiago Martins Dantas! Java - Fullstack
+
+Sejam bem vindo a bordo da nossa nave espacial, aqui é onde eu me divirto quando estou estudando novas linguagens e plataformas, vou tentar alimentar aqui cada dia um pouquinho com mais novidades, em caso de alguma duvida estou a disposição!!
   
  <div align="center">
   <a href="https://github.com/ThiagoMDantas">
